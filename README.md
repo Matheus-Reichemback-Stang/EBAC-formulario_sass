@@ -9,7 +9,7 @@
 > Antes de começar a descrever sobre o projeto, **deixo claro** que todos os meus repositórios que iniciam com o nome **"EBAC"**, eu desenvolvi o código desses repositórios junto as aulas que faço no curso ***Full-Stack Java*** na plataforma da **EBAC** ***(Escola Britânica de Artes Criativa & Tecnologia)***. Então, se você entrar em um repositório que **não contenha** o título **EBAC**, se trata de uma criação própria minha, e se entrar em um repositório que **possuí/contenha** o nome **EBAC**, o código dele foi desenvolvido com as experiências e conhecimentos que meus professores passavam enquanto eu assistia as aulas do meu curso e desenvolvia o código junto com eles.
 
 Nesse projeto foi criado um simples formulário de inscrição para uma Newsletter, embora simples, o foco desse projeto foi utilizar o pré-processador SASS. Eu acrescentei o Gulp para ficar algo mais profissional. 
-Caso ainda não tenha visto a página, clique [aqui](https://matheus-reichemback-stang.github.io/EBAC-games_shop/).
+Caso ainda não tenha visto a página, clique [aqui](https://matheus-reichemback-stang.github.io/EBAC-formulario_sass/ "Visitar página").
 
 ---
 
